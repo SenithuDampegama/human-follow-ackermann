@@ -46,11 +46,12 @@ Dual 3S LiPos
 📑 See BOM and Wiring Table.
 
 Firmware (Teensy)
-# Open firmware/RC_firmware_simple.ino
-# Select board = Teensy 4.1
-# Upload
+  Open firmware/RC_firmware_simple.ino
+  Select board = Teensy 4.1
+  Upload
 
 Jetson / Python
+
 cd jetson
 python -m venv .venv && source .venv/bin/activate
 pip install -r ../requirements.txt
