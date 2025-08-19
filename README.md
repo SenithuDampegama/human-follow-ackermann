@@ -47,47 +47,6 @@ DepthAI/PiNSIGHT camera
 
 Dual 3S LiPos
 
-📑 See BOM and Wiring Table.
-
-Firmware (Teensy)
-  Open firmware/RC_firmware_simple.ino
-  Select board = Teensy 4.1
-  Upload
-
-Jetson / Python
-
-cd jetson
-  python -m venv .venv && source .venv/bin/activate
-  pip install -r ../requirements.txt
-
-Run
-  Safe STUB mode (no motors):
-  python Main.py
-
-
-LIVE mode (real robot, wheels off ground first):
-Edit Main.py → MODE="LIVE"
-
-python Main.py
-
-📸 Media Showcase
-Stage	Image
-CAD Base	
-
-Wiring	
-
-Assembly	
-
-Detection Preview	
-📖 Documentation
-
-📑 Project Report
-
-📦 BOM
-
-🔌 Wiring Table
-
-[📐 CAD + Drawings](cad/, docs/Final_Drawing.pdf)
 
 📜 License
 
