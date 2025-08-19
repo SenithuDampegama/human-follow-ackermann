@@ -29,8 +29,10 @@ media/        → Images, renders, GIFs (for README showcase)
 
 🧩 System Architecture
 
+<img width="985" height="955" alt="human_follow_robot_architecture" src="https://github.com/user-attachments/assets/062f0b5e-b744-4acf-b0fd-9e938d87b004" />
 
-(Add a block diagram showing Vision → Layer-5 → Layer-4 → Teensy → Motors)
+
+
 
 🚀 Quickstart
 Hardware
@@ -55,14 +57,12 @@ Firmware (Teensy)
 Jetson / Python
 
 cd jetson
-python -m venv .venv && source .venv/bin/activate
-pip install -r ../requirements.txt
+  python -m venv .venv && source .venv/bin/activate
+  pip install -r ../requirements.txt
 
 Run
-
-Safe STUB mode (no motors):
-
-python Main.py
+  Safe STUB mode (no motors):
+  python Main.py
 
 
 LIVE mode (real robot, wheels off ground first):
