@@ -3,7 +3,9 @@
 A vision-driven crawler that follows humans using AI, built on Jetson Orin Nano + Teensy 4.1.
 
 
-![WhatsApp Image 2025-08-18 at 19 15 42](https://github.com/user-attachments/assets/02f7cc42-53d5-4985-a9dd-1405bce4d2da)
+
+https://github.com/user-attachments/assets/898d83e0-15fd-48f5-8a15-579c162862d4
+
 
 
 ✨ Features
