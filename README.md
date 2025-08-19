@@ -1,5 +1,7 @@
 🤖 Human-Follow Ackermann Robot
+
 ![Final look](https://github.com/user-attachments/assets/2a3a66dd-2642-4595-aa1f-e4db85b027b0)
+
 
 A vision-driven crawler that follows humans using AI, built on Jetson Orin Nano + Teensy 4.1.
 
