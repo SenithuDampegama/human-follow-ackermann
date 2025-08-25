@@ -7,7 +7,10 @@ A vision-driven crawler that follows humans using AI, built on Jetson Orin Nano 
 
 
 
-https://github.com/user-attachments/assets/898d83e0-15fd-48f5-8a15-579c162862d4
+
+https://github.com/user-attachments/assets/1e7aa455-2659-4f0a-9f2b-39e2cdc4e946
+
+
 
 
 Read this 👉 [project report.pdf](https://github.com/user-attachments/files/21867745/project.report.pdf)
